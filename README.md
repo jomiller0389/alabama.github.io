@@ -3,7 +3,7 @@
          <style>
           header {
              background-color: #bbbbbb;
-             top: 100px;
+             top: 10px;
              left: 0px;
              width: 100%;
              height: 20px;
@@ -26,19 +26,11 @@
          nav li:hover{
              background-color: plum;
          }
-         section1 {
-             float: left;
-             width: 50%;
+         section {
+             width: 100%;
              height: 500px;
-             background-color: lavender;
-             color: black;
-         }
-         section2 {
-             float: right;
-             width: 50%;
-             height: 500px;
-             background-color: lavenderblush;
-             color: black;
+             background-color: crimson;
+             color: white;
          }
          footer {
              clear: both;
@@ -57,12 +49,9 @@
          <header>
              Favorite Team: Alabama Crimson Tide
          </header>
-         <section1>
-           
-         </section1>
-         <section2>
-            
-         </section2>
+         <section>
+             Alabama Crimson Tide is the official football team of the University of Alabama, located in Tuscaloosa, Alabama.
+         </section>
          <footer>
              Copyright Area, Contact Us.
          </footer>
